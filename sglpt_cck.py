@@ -27,3 +27,9 @@ def parse_svc_file():
                     pass
                 if len(users) > 0:
                     print(parsed.service, parsed.acct_name, parsed.users, sep='||')
+                    
+def parse_users():
+    pass
+    
+def main():
+    pass
